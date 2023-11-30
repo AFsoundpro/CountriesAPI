@@ -1,0 +1,17 @@
+.card-cont{
+    background-color: rgb(150, 150, 75);
+    width: 15rem;
+    max-height: 15rem;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 5%;
+}
+
+.card-cont-info img{
+    max-width: 10rem;
+    max-height: 4.5rem;
+}

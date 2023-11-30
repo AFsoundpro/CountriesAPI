@@ -1,0 +1,45 @@
+/* landing.css */
+
+/* Estilo para centrar el botón */
+.center-button {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 1cm; /* Ajusta el margen superior según tus preferencias */
+  }
+  
+  /* Estilo para la imagen de fondo */
+  .background-image {
+    background-image: url('../../../public/cover1.jpg'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la URL de tu imagen de fondo */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh; /* Ajusta la altura según tus preferencias */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .background-image img {
+    width: 650px;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Estilo para el botón */
+  .button {
+    padding: 10px 20px;
+    background-color: #1f436b; /* Cambia el color de fondo según tus preferencias */
+    color: #fff; /* Cambia el color del texto según tus preferencias */
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 250px;
+    height: auto;
+  }
+  
+  .img {
+    width: 100px;
+  }

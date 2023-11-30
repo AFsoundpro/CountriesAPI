@@ -1,0 +1,54 @@
+/* About.css */
+
+.containerAbout {
+    text-align: center;
+    
+  }
+  
+  .container {
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 20px;
+  }
+  
+  .section-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  .name {
+    font-size: 28px;
+    margin: 10px 0;
+  }
+  
+  .profile-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 20px 0;
+  }
+  
+  .about-text {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .social-links ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .social-links a {
+    text-decoration: none;
+    color: #1b16a1;
+  }
+  
+  .about-me-text {
+    font-size: 16px;
+    margin: 20px 0;
+  }
+  
+  /* Estilos adicionales según tus preferencias */
+  

@@ -1,0 +1,24 @@
+.home img {
+    width: 500px;
+    height: auto;
+}
+
+.filters-cont {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Agrega un espacio entre los elementos */
+    padding: 20px; /* Agrega un poco de espacio alrededor del contenedor */
+    background-color: #d47522; /* Cambia el color de fondo del contenedor */
+    flex: 1 0 auto;
+}
+
+.cards-cont {
+    margin-bottom: 50px; 
+}
+
+
+.home {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}

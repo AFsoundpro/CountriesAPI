@@ -1,0 +1,18 @@
+.form-cont-content {
+    display: flex;
+    justify-content: center;
+}
+
+.form-cont-inputs form {
+    border: solid black 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 5%;
+    padding: 10px;
+    align-items: center;
+}
+
+.form-errors {
+    color: darkred;
+}

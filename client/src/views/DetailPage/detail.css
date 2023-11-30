@@ -1,0 +1,14 @@
+ .detail-cont {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+ }
+ 
+ 
+ .card-detail {
+    align-items: center;
+    border: solid 10px darkgoldenrod;
+    justify-content: center;
+    padding: 20px;
+ }
